@@ -47,8 +47,8 @@
 
 	<section class='carrousel'>
 	<div>Bienvenue sur l'exercice 2</div>
-	<div>2sgfdgdfg</div>
-	<div>3</div>
+	<div>26 février 2021</div>
+	<div>Collège de Maisonneuve</div>
 	</section>
 	<article class="boutonsMenu">
 	<button id="un">1</button>
