@@ -1114,5 +1114,7 @@ body.home::after {
   width: 200px;
   border-radius: 50px;
   background-color: grey;
+  border: 3px solid black;
+  margin-bottom: 5px;
 }
 /*# sourceMappingURL=style.css.map */
