@@ -46,7 +46,7 @@
 		</div><!-- .site-branding -->
 
 	<section class='carrousel'>
-	<div>Bienvenue sur l'exercice 2</div>
+	<div>Bienvenue sur le labo 4</div>
 	<div>26 février 2021</div>
 	<div>Collège de Maisonneuve</div>
 	</section>
