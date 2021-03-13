@@ -783,7 +783,7 @@ menu tablet
   .main-navigation ul li:hover ul {
     display: block;
     position: absolute;
-    width: 300px;
+    width: 310px;
     height: 500px;
   }
   .main-navigation.toggled ul ul,
