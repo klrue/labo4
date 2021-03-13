@@ -20,7 +20,6 @@
 			float: left;
 			position: absolute;
 			top: 100%;
-			
 			left: -999em;
 			z-index: 99999;
 
@@ -38,15 +37,18 @@
 	
 			
 		}
+	
 
 		li.hover > ul,
 		li.focus > ul {
 			left: 0;
 		
 		}
+	
 
 		li{
 			position: relative;
+			
 		}
 //affichage du "+" sur les sections "session'
 		a[href="#"]::after
